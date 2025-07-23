@@ -130,13 +130,16 @@ graph TD
 
 ### 🎯 Notable Wins & Recognition
 
-| 🏅 Achievement | 🎪 Event | 📅 Year | 🛠️ Tech Stack |
-|---|---|---|---|
-| 🥇 **First Place** | [Major Hackathon Name] | 2024 | Python, TensorFlow, React |
-| 🥈 **Second Place** | [University Competition] | 2023 | Node.js, PostgreSQL, Docker |
-| 🏅 **Best AI Implementation** | [Tech Conference Hack] | 2023 | PyTorch, FastAPI, AWS |
-| 📚 **Dean's List** | Academic Excellence | 2023-2024 | Mathematics & CS |
-| 🎯 **[Your Achievement]** | [Event Name] | [Year] | [Tech Used] |
+| 🏅 Achievement                        | 🎪 Event                        | 📅 Year      | 🛠️ Tech Stack                |
+|---------------------------------------|----------------------------------|-------------|------------------------------|
+| 🏆 Best Interdisciplinary Project     | TechXpo, ULM                    | 2024        | Python, ML, UI/UX            |
+| 🏅 Emerging Scholar Award             | University of Louisiana Monroe   | 2024        | Research & Innovation         |
+| 🥈 Silver Medalist                    | ULM Code Clash                   | 2025        | C++, Algorithms               |
+| 🥇 Gold Medalist                      | Gandaki Pi Contest               | —           | Competitive Math              |
+| 🥉 Bronze Medalist                    | National Math Olympiad           | —           | Problem Solving               |
+| 🏅 Emerging Scholar Research (x2)     | ULM                              | 2024–2025   | Academic Research             |
+| 🥈 Second Place                       | ULM Research Symposium           | 2025        | Data Analysis, Visualization  |
+| 🥈 Second Place                       | ULM Honors Symposium             | 2025        | Scientific Writing & Presentation | 
 
 ### 📊 Hackathon Stats
 ```
